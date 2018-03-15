@@ -1,0 +1,26 @@
+.bgc-2962FF {
+    background-color: #2962FF;
+}
+.c-FFEBEE {
+    color: #FFEBEE;
+}
+.d-f {
+    display: flex;
+}
+.fs-400p {
+    font-size: 400%;
+}
+.bgimg-br {
+    background-image: url("./../images/sonicLogo.jpg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+.h-100p {
+    height: 100%;
+}
+.jc-sa {
+    justify-content: space-around;
+}
+.ta-c {
+    text-align: center;
+}
