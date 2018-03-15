@@ -21,13 +21,13 @@ function init() {
 }
 
 function setTarget(){
-targetNumber = Math.round(Math.random() * 100 + 1);
+targetNumber = Math.round(Math.random() * 100 + 10);
 $(`#targetNumber`).text(targetNumber);
 return targetNumber;
 }
 
 function setCrystal(crystal) {
-crystal = Math.round(Math.random() * 15);
+crystal = Math.round(Math.random() * 15 + 1);
 return crystal;
 }
 
